@@ -5,3 +5,4 @@
 report
 allure-results
 **/__pycache__/
+.vscode
